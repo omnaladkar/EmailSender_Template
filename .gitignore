@@ -1,0 +1,26 @@
+# Dependency directories
+node_modules/
+bower_components/
+
+# Environment files
+.env
+
+# Build files
+dist/
+build/
+*.log
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs/
+*.log*
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
